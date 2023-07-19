@@ -8,7 +8,7 @@ export default class PersonList extends Component {
             person: [
               {
                 id: 1,
-                firstName: "Nguyen Van",
+                firstName: "TRAN QUANG",
                 lastName: "A",
               },
               {
